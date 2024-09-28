@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 105ea64661c868c45a4e6e66fcb7ae48, type: 3}
+  m_Name: ArgentSquire
+  m_EditorClassIdentifier: 
+  Name: Argent Squire
+  Design: {fileID: 21300000, guid: d335e6db1790e7645b70e937a71ec4cc, type: 3}
+  Mana: 5
+  Description: Hola
+  Marco: {fileID: 21300000, guid: 30a2f258521a78e4ab1d6c6cda6858ed, type: 3}
+  Mask: {fileID: 21300000, guid: 8349e50a6a86e984fa2e95d937298abc, type: 3}
+  Border: {fileID: 21300000, guid: 33374654e9de7bf47ae89d97c46eff4a, type: 3}
+  Damage: 0
+  HP: 0
